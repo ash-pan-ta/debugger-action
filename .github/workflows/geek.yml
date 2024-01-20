@@ -1,4 +1,4 @@
-name: Geekbench benchmark
+name: Geekbench
 on: [push]
 jobs:
   build:
