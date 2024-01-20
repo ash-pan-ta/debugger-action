@@ -1,5 +1,5 @@
 #!/bin/bash
-
+touch /tmp/keepalive
 set -e
 
 if [[ ! -z "$SKIP_DEBUGGER" ]]; then
