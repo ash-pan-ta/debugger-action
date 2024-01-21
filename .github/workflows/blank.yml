@@ -1,4 +1,4 @@
-name: ashp
+name: ash
 on: [push]
 jobs:
   build:
